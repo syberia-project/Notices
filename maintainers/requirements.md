@@ -29,6 +29,8 @@
 	
   * It is preferable that the device has a selinux enforcing to release builds. However, this is discussed individually with each candidate.
 
+  * The device tree must not include any unused overlays. For example placebo build.prop 'tweaks'.
+
   * The device must have working functions:
 
     - audio (in-call audio, speaker phone, headphone jack and bluetooth audio).
@@ -39,14 +41,12 @@
 
     - camera (if you are using a third party camera app in your builds, this should be fully functional).
 
-    - bluetooth (transferring files and receive them).
-
-    - NFC if supported by device.
-
     - fingerprint scanner if supported by device.
+
+    - NFC if supported by device
 
     - proximity sensor.
 
-    - WiFi.
+    - bluetooth.
 
-  * The device tree must not include any unused overlays. For example placebo build.prop 'tweaks'.	
+    - WiFi.
