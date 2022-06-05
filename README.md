@@ -1,4 +1,4 @@
-![Syberia Team](https://img.xda-cdn.com/ZxnBz5IxPjE2ow_iJXOpAg66jmo=/https%3A%2F%2Fi.imgur.com%2Fd7Wdalb.png)
+[Syberia Team](https://syberiaos.com/team)
 
 **These requirements are for developers that want to be device maintainers.**
 -----------------------------------------------------------------------------
