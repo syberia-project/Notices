@@ -16,8 +16,6 @@
   * The maintainer must write clear commit messages. "Fix derp", "Fix#1" etc aren't allowed.
 
   * The maintainer must release updated builds at least once every one month after the release of the new security patch by Google. If there is a valid reason, updated builds can be released less often. The maintainer must inform the team administration in the Telegram group about these reasons. Otherwise, the maintainer may be kicked from the team without warning.
-
-  * The maintainer must create and maintain an unofficial build on [XDA](https://forum.xda-developers.com/) for at least a month.
 	
   * The maintainer must be a member of the [Telegram support group](https://t.me/SyberiaOSHelpdesk). 
 
