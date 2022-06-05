@@ -5,9 +5,9 @@ Before contacting us, ALL of the requirements must be met. If you have any quest
 
 Contact Syberia Team Administration by mailing at info@syberiaos.com. When contacting the administration you should include in your e-mail:
 
- * Your XDA username.
- * Link on your personal GitHub and/or device specific repos.
- * Telegram username (optional only if you have).
+ * Your "SourceForge" username. If you are not registered here, please do so in advance. [SourceForge](https://sourceforge.net/)
+ * Link on your personal GitHub and device specific repos.
+ * Telegram username.
  * Device name, codename.
  * Selinux status, what is working or non-working, any other information team should know.
 
