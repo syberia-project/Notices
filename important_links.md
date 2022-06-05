@@ -12,5 +12,3 @@
  * [Telegram Group](https://t.me/SyberiaOSHelpdesk)
 
  * [Announcement Channel](https://t.me/syberia_announcements)
-
- * [XDA Template](https://pastebin.com/sCuYw5Uv)
